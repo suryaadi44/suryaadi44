@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Surya 👋
+
+I'm a 2nd year Computer Science Student at Udayana University
+i'm a tech enthusiast and always opent to collaborating on any project. Feel free to reacxh me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-suryaadi44-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryaadi44/)](https://www.linkedin.com/in/suryaadi44/)
+[![Instagram Badge](https://img.shields.io/badge/-surya.adi44/-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/surya.adi44//)](https://instagram.com/surya.adi44/)
+[![Gmail Badge](https://img.shields.io/badge/-kmsurya.adi44@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmsurya.adi44@gmail.com)](mailto:kmsurya.adi44@gmail.com)
+
 
 <!--
 **suryaadi44/suryaadi44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
