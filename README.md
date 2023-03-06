@@ -1,6 +1,6 @@
 ### Hi, I'm Surya 👋
 
-I'm a 2nd year Computer Science Student at Udayana University
+I'm a 3rd year Computer Science Student at Udayana University
 I'm a tech enthusiast and always open to collaborating on any project. Feel free to reach me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-suryaadi44-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryaadi44/)](https://www.linkedin.com/in/suryaadi44/)
